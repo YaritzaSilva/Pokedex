@@ -1,0 +1,18 @@
+@import url('https://fonts.googleapis.com/css2?family=Mountains+of+Christmas&display=swap');
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-flow: column;
+}
+#pokemon{
+    max-height: 200px;
+}
+#fotopokemon {
+    max-height: 500px;
+}
+
+#nomepokemon {
+    font-size: 48px;
+    font-family: 'Mountains of Christmas', cursive;
+}
